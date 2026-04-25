@@ -1,0 +1,17 @@
+{
+  "name": "sentinel-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^24.42.0"
+  }
+}
